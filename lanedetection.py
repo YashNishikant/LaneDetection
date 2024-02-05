@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-video = cv2.VideoCapture(r'C:\github\PythonProjects\OpenCV\roadvid.mp4')
+video = cv2.VideoCapture(r'roadvid.mp4')
 
 delay = 30
 l = 0
